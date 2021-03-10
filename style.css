@@ -1,0 +1,19 @@
+.navbar {
+    background-color: chocolate !important;
+}
+.img-fluid {
+    width: 150px;
+    height: 200px;
+}
+.fas {
+    color: gold;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+ }
